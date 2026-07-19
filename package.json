@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This repository is part of my technical portfolio.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoisTech/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RoisTech/portfolio/issues"
+  },
+  "homepage": "https://github.com/RoisTech/portfolio#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
